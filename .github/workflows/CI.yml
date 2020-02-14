@@ -10,4 +10,4 @@ jobs:
        with:
          node-version: 12.4
     - uses: actions/checkout@v2
-    - uses: youhananaseim/hello-youhana-action
+    - uses: youhananaseim/hello-youhana-action@master
