@@ -1,2 +1,2 @@
 # hello-youhana-action-test
-- test
+- test 2
